@@ -1,0 +1,48 @@
+body{
+    font-family: font-family: 'Poppins', sans-serif;;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.3rem;
+}
+.price h1 {
+    color: #ff2178;
+}
+.sliderArea, .fullArea{
+    background: #FAE9E8;
+}
+button {
+    background: #ff2178;
+    border: none;
+    font-weight: 600;
+    padding: 7px 15px;
+    color: white;
+    border-radius: 3px;
+    margin-top: 7px;
+    transition:all .4s;
+}
+button:focus{
+    outline:none;
+}
+button:hover{
+    background: #c40753;
+}
+.watch{
+    background:#FFA500;
+}
+.bag{
+    background: #DA70D6;
+}
+.shows{
+    background: #0000FF;
+}
+.rounded img.img-fluid {
+    width: 100px;
+    margin-left: 20px;
+}
+.foShadow {
+    box-shadow: 3px 4px 5px 4px #dcdcdc;
+}
+input.form-control.w-50 {
+    margin-left: 202px;
+}
